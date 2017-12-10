@@ -1,7 +1,8 @@
 # GadgetMart
+Online Gadget Store
 A complete C# project 
 
-Notes : all our database class in App_Code 
+Notes : all our database class are in App_Code 
 
 Instruction to open project :
 1. open visual studio 
